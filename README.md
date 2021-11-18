@@ -1,2 +1,2 @@
-# AChE-receptor_grids
+# Acetylcholinesterase (AChE) Receptor Grids
 Receptor grids for Acetylcholinesterase (AChE)
